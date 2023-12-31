@@ -1,0 +1,47 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(pattern.jpeg);
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h5{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.brush h4
+{
+    background-color: mediumspringgreen;
+}
+.brush span{
+    color: blue;
+}
+.frame h4
+{
+    background-color: lightcoral;
+}
+
+.frame span{
+    color: blue;
+}
+
+.paint h4{
+    background-color: skyblue;
+}
+
+.paint span{color: blue;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
